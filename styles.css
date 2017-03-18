@@ -1,0 +1,16 @@
+body {background: wheat;
+	 
+
+
+}
+body {text-align:center;
+color:navy;
+font-family: "Verdana";  
+}
+h6 {color:palegoldenrod;
+	font-family: "georgia";
+}
+.button{color: aqua;
+
+}
+.button:hover {color:lightskyblue;}
